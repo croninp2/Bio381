@@ -1,5 +1,5 @@
 ---
-title: "Homework1"
+title: "Paul's Bio381 Homework"
 author: "Paul Cronin"
 date: "29 August 2018"
 output: 
@@ -8,11 +8,19 @@ output:
     highlight: github
 ---
 
-[Bio381 Webpage](https://gotellilab.github.io/Bio381/)
-
 # My Homework
 
 ### Homework one
 
 [Homework 1](test.html)
+
+[Bio381 Webpage](https://gotellilab.github.io/Bio381/)
+
+### A Petunia
+
+![](C:\Users\Paul\Desktop\Paxillaris.jpg)
+
+### A Fun Fact
+
+I am from a tiny village in Ireland called Meanus. Yes, I know.
 
