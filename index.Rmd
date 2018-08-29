@@ -2,7 +2,10 @@
 title: "Homework1"
 author: "Paul Cronin"
 date: "29 August 2018"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
 ---
 
 [Bio381 Webpage](https://gotellilab.github.io/Bio381/)
