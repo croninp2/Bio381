@@ -5,11 +5,11 @@ date: "29 August 2018"
 output: html_document
 ---
 
+[Bio381 Webpage](https://gotellilab.github.io/Bio381/)
 
-
-
-# My Homeworks
+# My Homework
 
 ### Homework one
 
 [Homework 1](test.html)
+
